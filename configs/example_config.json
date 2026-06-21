@@ -1,0 +1,10 @@
+{
+  "model": "efficientnet_b0",
+  "lr": 1e-4,
+  "batch_size": 32,
+  "epochs": 30,
+  "img_size": 224,
+  "pretrained": true,
+  "val_split": 0.1,
+  "num_workers": 4
+}
