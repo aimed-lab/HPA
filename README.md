@@ -88,7 +88,7 @@ python hpa/dashboard_hpa.py
   year      = {2026},
   publisher = {Zenodo},
   version   = {v1},
-  doi       = {10.5281/zenodo.20801708},
-  url       = {https://doi.org/10.5281/zenodo.20801708}
+  doi       = {10.5281/zenodo.20801879},
+  url       = {https://doi.org/10.5281/zenodo.20801879}
 }
 ```
