@@ -82,7 +82,7 @@ python hpa/dashboard_hpa.py
 ```
 
 ```bibtex
-@software{nguyen_chen_2026_hpa_dashboard,
+@software{nguyen_2026_hpa,
   author    = {Nguyen, Huu Phong and Chen, Jake},
   title     = {HPA Dashboard: A Reusable Imaging Workflow Package with an Auto-Research Training Agent},
   year      = {2026},
