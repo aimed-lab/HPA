@@ -80,3 +80,13 @@ python hpa/dashboard_hpa.py
   "num_workers": 4
 }
 ```
+
+@software{nguyen_chen_2026_hpa_dashboard,
+  author       = {Nguyen, Huu Phong and Chen, Jake},
+  title        = {HPA Dashboard: A Reusable Imaging Workflow Package with an Auto-Research Training Agent},
+  year         = {2026},
+  publisher    = {Zenodo},
+  version      = {v1},
+  doi          = {10.5281/zenodo.20801708},
+  url          = {https://doi.org/10.5281/zenodo.20801708}
+}
